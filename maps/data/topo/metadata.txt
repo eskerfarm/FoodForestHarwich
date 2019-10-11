@@ -1,0 +1,7 @@
+Lidar data downloaded from Massachusetts OLIVER on 2019-10-10 (NCM)
+
+Link to data download: https://docs.digital.mass.gov/dataset/massgis-data-lidar-terrain-data
+
+Summary of elevation products for Massachusetts:
+
+Carswell, W.J., Jr., 2014, The 3D Elevation Program—Summary for Massachusetts: U.S. Geological Survey Fact Sheet 2014–3055, 2 p., https://dx.doi.org/10.3133/fs20143055.
