@@ -2,11 +2,13 @@
 
 ## Basemaps for planning
 
-[Topography and land use](maps/plots/HFF_topo_landuse.pdf)
-
-[Hillshade](maps/plots/HFF_hillshade.pdf)
-
-[Topography and orthophoto](maps/plots/HFF_topo_orthophoto.pdf)
+[Topography and land use](maps/plots/FFH_topo_landuse.pdf)
+[Hillshade](maps/plots/FFH_hillshade.pdf)
+[Topography and orthophoto](maps/plots/FFH_topo_orthophoto.pdf)
+[Slope](maps/plots/FFH_slope.pdf)
+[Aspect](maps/plots/FFH_aspect.pdf)
+[North area detail](maps/plots/FFH_topo_detail-north.pdf)
+[South area detail](maps/plots/FFH_topo_detail-south.pdf)
 
 ## Other GIS resources and data:
 
